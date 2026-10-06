@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.venv/
+venv/
+*.db
+*.sqlite3
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+.env
+.DS_Store
+AI Coding 实战题*.md
+前端参考.md
+*.zip
